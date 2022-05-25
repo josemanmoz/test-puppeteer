@@ -1,0 +1,16 @@
+{
+    "name": "test-puppeteer",
+    "version": "1.0.0",
+    "description": "prueba puppeter",
+    "main": "app.js",
+    "scripts": {
+        "start": "node src/app.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "José Manuel Mozqueda",
+    "license": "ISC",
+    "devDependencies": {},
+    "dependencies": {
+        "puppeteer": "^14.1.1"
+    }
+}
